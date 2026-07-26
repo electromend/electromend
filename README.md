@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/electromend/electromend/blob/main/1783100662093.jfif)
 <h1 align="center">Hi 👋, I'm Ali Reza</h1>
 <h3 align="center">Embedded Systems Engineer | Edge AI on Microcontrollers | Industrial IoT</h3>
 
